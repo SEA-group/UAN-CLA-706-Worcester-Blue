@@ -150,6 +150,18 @@
 					<mfm>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/ship/ASC016_Worcester_1948_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
+			<primitiveGroup>	1
+				<material>
+					<identifier>	SHIPMAT_PBS_SolidWireX	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/ship/ASC016_Worcester_1948_SolidWire.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+			<primitiveGroup>	2
+				<material>
+					<identifier>	SHIPMAT_PBS_GlassX	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/ship/ASC016_Worcester_1948_Glass.mfm	</mfm>
+				</material>
+			</primitiveGroup>
 		</geometry>
 	</renderSet>
 	<renderSet>
@@ -330,6 +342,12 @@
 				<material>
 					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/ship/ASC016_Worcester_1948_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+			<primitiveGroup>	1
+				<material>
+					<identifier>	SHIPMAT_PBS_SolidWireX	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/ship/ASC016_Worcester_1948_SolidWire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
